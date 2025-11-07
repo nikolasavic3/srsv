@@ -53,3 +53,9 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+
+lab1
+*.o
+*.out
+a.out
