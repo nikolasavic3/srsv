@@ -1,0 +1,699 @@
+Ulaz-0 pocetak (T=1000, t0=0, C=30)
+0       Ulaz-0: promjena ulaza
+Ulaz-1 pocetak (T=1000, t0=400, C=30)
+Ulaz-2 pocetak (T=1000, t0=700, C=30)
+Ulaz-3 pocetak (T=5000, t0=100, C=50)
+Ulaz-4 pocetak (T=5000, t0=500, C=50)
+Ulaz-5 pocetak (T=5000, t0=800, C=50)
+Ulaz-6 pocetak (T=5000, t0=1100, C=50)
+Ulaz-7 pocetak (T=5000, t0=1500, C=50)
+Ulaz-9 pocetak (T=5000, t0=2100, C=50)
+Ulaz-8 pocetak (T=5000, t0=1800, C=50)
+Ulaz-10 pocetak (T=5000, t0=2500, C=50)
+Ulaz-12 pocetak (T=5000, t0=3100, C=50)
+Ulaz-13 pocetak (T=5000, t0=3500, C=50)
+Ulaz-11 pocetak (T=5000, t0=2800, C=50)
+Ulaz-14 pocetak (T=5000, t0=3800, C=50)
+Ulaz-15 pocetak (T=5000, t0=4100, C=50)
+Ulaz-16 pocetak (T=5000, t0=4500, C=50)
+Ulaz-17 pocetak (T=5000, t0=4800, C=50)
+Ulaz-18 pocetak (T=20000, t0=900, C=50)
+Ulaz-19 pocetak (T=20000, t0=1900, C=150)
+Ulaz-20 pocetak (T=20000, t0=2900, C=50)
+Ulaz-21 pocetak (T=20000, t0=3900, C=150)
+Ulaz-22 pocetak (T=20000, t0=4900, C=50)
+Ulaz-23 pocetak (T=20000, t0=5900, C=150)
+Ulaz-24 pocetak (T=20000, t0=6900, C=50)
+Ulaz-25 pocetak (T=20000, t0=7900, C=150)
+Ulaz-26 pocetak (T=20000, t0=8900, C=50)
+Ulaz-27 pocetak (T=20000, t0=9900, C=150)
+Ulaz-28 pocetak (T=20000, t0=10900, C=50)
+Ulaz-29 pocetak (T=20000, t0=11900, C=150)
+Ulaz-30 pocetak (T=20000, t0=12900, C=50)
+Ulaz-31 pocetak (T=20000, t0=13900, C=150)
+Ulaz-32 pocetak (T=20000, t0=14900, C=50)
+Ulaz-33 pocetak (T=20000, t0=15900, C=150)
+Ulaz-34 pocetak (T=20000, t0=16900, C=50)
+Ulaz-35 pocetak (T=20000, t0=17900, C=150)
+Ulaz-36 pocetak (T=20000, t0=18900, C=150)
+Ulaz-37 pocetak (T=20000, t0=19900, C=150)
+101     Ulaz-3: promjena ulaza
+401     Ulaz-1: promjena ulaza
+500     Ulaz-4: promjena ulaza
+701     Ulaz-2: promjena ulaza
+800     Ulaz-5: promjena ulaza
+901     Ulaz-18: promjena ulaza
+1001    Upravljac: započinjem obradu ulaza-0 (vrijeme reakcije: 1001 ms)
+1009    Ulaz-0: neobradjeni dogadjaj
+1009    Ulaz-0: promjena ulaza
+1061    Upravljac: gotov s ulaz-0
+1061    Upravljac: započinjem obradu ulaza-1 (vrijeme reakcije: 660 ms)
+1100    Ulaz-6: promjena ulaza
+1121    Upravljac: gotov s ulaz-1
+1122    Upravljac: započinjem obradu ulaza-2 (vrijeme reakcije: 421 ms)
+1182    Upravljac: gotov s ulaz-2
+1182    Upravljac: započinjem obradu ulaza-3 (vrijeme reakcije: 1081 ms)
+1283    Upravljac: gotov s ulaz-3
+1283    Upravljac: započinjem obradu ulaza-4 (vrijeme reakcije: 783 ms)
+1383    Upravljac: gotov s ulaz-4
+1383    Upravljac: započinjem obradu ulaza-5 (vrijeme reakcije: 583 ms)
+1400    Ulaz-1: promjena ulaza
+1483    Upravljac: gotov s ulaz-5
+1484    Upravljac: započinjem obradu ulaza-6 (vrijeme reakcije: 384 ms)
+1500    Ulaz-7: promjena ulaza
+1584    Upravljac: gotov s ulaz-6
+1584    Upravljac: započinjem obradu ulaza-7 (vrijeme reakcije: 84 ms)
+1684    Upravljac: gotov s ulaz-7
+1684    Upravljac: započinjem obradu ulaza-18 (vrijeme reakcije: 783 ms)
+1700    Ulaz-2: promjena ulaza
+1784    Upravljac: gotov s ulaz-18
+Ulaz-18 gotov
+1801    Ulaz-8: promjena ulaza
+1901    Ulaz-19: promjena ulaza
+2000    Ulaz-0: promjena ulaza
+2101    Ulaz-9: promjena ulaza
+2407    Ulaz-1: neobradjeni dogadjaj
+2408    Ulaz-1: promjena ulaza
+2500    Ulaz-10: promjena ulaza
+2701    Ulaz-2: neobradjeni dogadjaj
+2702    Ulaz-2: promjena ulaza
+2785    Upravljac: započinjem obradu ulaza-0 (vrijeme reakcije: 785 ms)
+2801    Ulaz-11: promjena ulaza
+2845    Upravljac: gotov s ulaz-0
+2845    Upravljac: započinjem obradu ulaza-1 (vrijeme reakcije: 437 ms)
+2900    Ulaz-20: promjena ulaza
+2905    Upravljac: gotov s ulaz-1
+2905    Upravljac: započinjem obradu ulaza-2 (vrijeme reakcije: 203 ms)
+2965    Upravljac: gotov s ulaz-2
+2965    Upravljac: započinjem obradu ulaza-8 (vrijeme reakcije: 1164 ms)
+3000    Ulaz-0: promjena ulaza
+3066    Upravljac: gotov s ulaz-8
+3066    Upravljac: započinjem obradu ulaza-9 (vrijeme reakcije: 965 ms)
+3100    Ulaz-12: promjena ulaza
+3166    Upravljac: gotov s ulaz-9
+3166    Upravljac: započinjem obradu ulaza-10 (vrijeme reakcije: 666 ms)
+3266    Upravljac: gotov s ulaz-10
+3266    Upravljac: započinjem obradu ulaza-11 (vrijeme reakcije: 465 ms)
+3366    Upravljac: gotov s ulaz-11
+3367    Upravljac: započinjem obradu ulaza-12 (vrijeme reakcije: 267 ms)
+3400    Ulaz-1: promjena ulaza
+3467    Upravljac: gotov s ulaz-12
+3467    Upravljac: započinjem obradu ulaza-19 (vrijeme reakcije: 1566 ms)
+3501    Ulaz-13: promjena ulaza
+3701    Ulaz-2: promjena ulaza
+3767    Upravljac: gotov s ulaz-19
+3767    Upravljac: započinjem obradu ulaza-20 (vrijeme reakcije: 867 ms)
+Ulaz-19 gotov
+3800    Ulaz-14: promjena ulaza
+3868    Upravljac: gotov s ulaz-20
+Ulaz-20 gotov
+3900    Ulaz-21: promjena ulaza
+4006    Ulaz-0: neobradjeni dogadjaj
+4006    Ulaz-0: promjena ulaza
+4100    Ulaz-15: promjena ulaza
+4404    Ulaz-1: neobradjeni dogadjaj
+4404    Ulaz-1: promjena ulaza
+4500    Ulaz-16: promjena ulaza
+4701    Ulaz-2: neobradjeni dogadjaj
+4701    Ulaz-2: promjena ulaza
+4800    Ulaz-17: promjena ulaza
+4868    Upravljac: započinjem obradu ulaza-0 (vrijeme reakcije: 862 ms)
+4900    Ulaz-22: promjena ulaza
+4929    Upravljac: gotov s ulaz-0
+4929    Upravljac: započinjem obradu ulaza-1 (vrijeme reakcije: 525 ms)
+4989    Upravljac: gotov s ulaz-1
+4989    Upravljac: započinjem obradu ulaza-2 (vrijeme reakcije: 288 ms)
+5001    Ulaz-0: promjena ulaza
+5049    Upravljac: gotov s ulaz-2
+5049    Upravljac: započinjem obradu ulaza-13 (vrijeme reakcije: 1548 ms)
+5100    Ulaz-3: promjena ulaza
+5150    Upravljac: gotov s ulaz-13
+5150    Upravljac: započinjem obradu ulaza-14 (vrijeme reakcije: 1350 ms)
+5250    Upravljac: gotov s ulaz-14
+5250    Upravljac: započinjem obradu ulaza-15 (vrijeme reakcije: 1150 ms)
+5351    Upravljac: gotov s ulaz-15
+5351    Upravljac: započinjem obradu ulaza-16 (vrijeme reakcije: 851 ms)
+5401    Ulaz-1: promjena ulaza
+5451    Upravljac: gotov s ulaz-16
+5451    Upravljac: započinjem obradu ulaza-17 (vrijeme reakcije: 651 ms)
+5500    Ulaz-4: promjena ulaza
+5551    Upravljac: gotov s ulaz-17
+5551    Upravljac: započinjem obradu ulaza-21 (vrijeme reakcije: 1651 ms)
+5700    Ulaz-2: promjena ulaza
+5800    Ulaz-5: promjena ulaza
+5851    Upravljac: gotov s ulaz-21
+5852    Upravljac: započinjem obradu ulaza-22 (vrijeme reakcije: 952 ms)
+Ulaz-21 gotov
+5900    Ulaz-23: promjena ulaza
+5952    Upravljac: gotov s ulaz-22
+5952    Upravljac: započinjem obradu ulaza-23 (vrijeme reakcije: 52 ms)
+Ulaz-22 gotov
+6000    Ulaz-0: neobradjeni dogadjaj
+6000    Ulaz-0: promjena ulaza
+6100    Ulaz-6: promjena ulaza
+6252    Upravljac: gotov s ulaz-23
+Ulaz-23 gotov
+6400    Ulaz-1: neobradjeni dogadjaj
+6400    Ulaz-1: promjena ulaza
+6500    Ulaz-7: promjena ulaza
+6702    Ulaz-2: neobradjeni dogadjaj
+6702    Ulaz-2: promjena ulaza
+6800    Ulaz-8: promjena ulaza
+6901    Ulaz-24: promjena ulaza
+7003    Ulaz-0: neobradjeni dogadjaj
+7003    Ulaz-0: promjena ulaza
+7100    Ulaz-9: promjena ulaza
+7252    Upravljac: započinjem obradu ulaza-0 (vrijeme reakcije: 249 ms)
+7313    Upravljac: gotov s ulaz-0
+7313    Upravljac: započinjem obradu ulaza-1 (vrijeme reakcije: 913 ms)
+7373    Upravljac: gotov s ulaz-1
+7373    Upravljac: započinjem obradu ulaza-2 (vrijeme reakcije: 671 ms)
+7400    Ulaz-1: promjena ulaza
+7433    Upravljac: gotov s ulaz-2
+7434    Upravljac: započinjem obradu ulaza-3 (vrijeme reakcije: 2334 ms)
+7500    Ulaz-10: promjena ulaza
+7534    Upravljac: gotov s ulaz-3
+7534    Upravljac: započinjem obradu ulaza-4 (vrijeme reakcije: 2034 ms)
+7634    Upravljac: gotov s ulaz-4
+7634    Upravljac: započinjem obradu ulaza-5 (vrijeme reakcije: 1834 ms)
+7701    Ulaz-2: promjena ulaza
+7734    Upravljac: gotov s ulaz-5
+7734    Upravljac: započinjem obradu ulaza-6 (vrijeme reakcije: 1634 ms)
+7800    Ulaz-11: promjena ulaza
+7835    Upravljac: gotov s ulaz-6
+7835    Upravljac: započinjem obradu ulaza-7 (vrijeme reakcije: 1335 ms)
+7901    Ulaz-25: promjena ulaza
+7935    Upravljac: gotov s ulaz-7
+7935    Upravljac: započinjem obradu ulaza-8 (vrijeme reakcije: 1135 ms)
+8001    Ulaz-0: promjena ulaza
+8035    Upravljac: gotov s ulaz-8
+8035    Upravljac: započinjem obradu ulaza-9 (vrijeme reakcije: 935 ms)
+8100    Ulaz-12: promjena ulaza
+8136    Upravljac: gotov s ulaz-9
+8136    Upravljac: započinjem obradu ulaza-10 (vrijeme reakcije: 636 ms)
+8236    Upravljac: gotov s ulaz-10
+8236    Upravljac: započinjem obradu ulaza-11 (vrijeme reakcije: 436 ms)
+8336    Upravljac: gotov s ulaz-11
+8336    Upravljac: započinjem obradu ulaza-12 (vrijeme reakcije: 236 ms)
+8402    Ulaz-1: neobradjeni dogadjaj
+8402    Ulaz-1: promjena ulaza
+8436    Upravljac: gotov s ulaz-12
+8436    Upravljac: započinjem obradu ulaza-24 (vrijeme reakcije: 1535 ms)
+8500    Ulaz-13: promjena ulaza
+8537    Upravljac: gotov s ulaz-24
+8537    Upravljac: započinjem obradu ulaza-25 (vrijeme reakcije: 636 ms)
+Ulaz-24 gotov
+8702    Ulaz-2: neobradjeni dogadjaj
+8702    Ulaz-2: promjena ulaza
+8800    Ulaz-14: promjena ulaza
+8837    Upravljac: gotov s ulaz-25
+Ulaz-25 gotov
+8901    Ulaz-26: promjena ulaza
+9003    Ulaz-0: neobradjeni dogadjaj
+9003    Ulaz-0: promjena ulaza
+9100    Ulaz-15: promjena ulaza
+9406    Ulaz-1: neobradjeni dogadjaj
+9406    Ulaz-1: promjena ulaza
+9500    Ulaz-16: promjena ulaza
+9703    Ulaz-2: neobradjeni dogadjaj
+9703    Ulaz-2: promjena ulaza
+9800    Ulaz-17: promjena ulaza
+9837    Upravljac: započinjem obradu ulaza-0 (vrijeme reakcije: 834 ms)
+9898    Upravljac: gotov s ulaz-0
+9898    Upravljac: započinjem obradu ulaza-1 (vrijeme reakcije: 492 ms)
+9900    Ulaz-27: promjena ulaza
+9958    Upravljac: gotov s ulaz-1
+9958    Upravljac: započinjem obradu ulaza-2 (vrijeme reakcije: 255 ms)
+10000   Ulaz-0: promjena ulaza
+10018   Upravljac: gotov s ulaz-2
+10019   Upravljac: započinjem obradu ulaza-13 (vrijeme reakcije: 1519 ms)
+10101   Ulaz-3: promjena ulaza
+10119   Upravljac: gotov s ulaz-13
+10119   Upravljac: započinjem obradu ulaza-14 (vrijeme reakcije: 1319 ms)
+10219   Upravljac: gotov s ulaz-14
+10219   Upravljac: započinjem obradu ulaza-15 (vrijeme reakcije: 1119 ms)
+10320   Upravljac: gotov s ulaz-15
+10320   Upravljac: započinjem obradu ulaza-16 (vrijeme reakcije: 820 ms)
+10401   Ulaz-1: promjena ulaza
+10420   Upravljac: gotov s ulaz-16
+10420   Upravljac: započinjem obradu ulaza-17 (vrijeme reakcije: 620 ms)
+10500   Ulaz-4: promjena ulaza
+10520   Upravljac: gotov s ulaz-17
+10520   Upravljac: započinjem obradu ulaza-26 (vrijeme reakcije: 1619 ms)
+10621   Upravljac: gotov s ulaz-26
+10621   Upravljac: započinjem obradu ulaza-27 (vrijeme reakcije: 721 ms)
+Ulaz-26 gotov
+10700   Ulaz-2: promjena ulaza
+10800   Ulaz-5: promjena ulaza
+10900   Ulaz-28: promjena ulaza
+10921   Upravljac: gotov s ulaz-27
+10921   Upravljac: započinjem obradu ulaza-28 (vrijeme reakcije: 21 ms)
+Ulaz-27 gotov
+11003   Ulaz-0: neobradjeni dogadjaj
+11003   Ulaz-0: promjena ulaza
+11021   Upravljac: gotov s ulaz-28
+Ulaz-28 gotov
+11100   Ulaz-6: promjena ulaza
+11404   Ulaz-1: neobradjeni dogadjaj
+11404   Ulaz-1: promjena ulaza
+11500   Ulaz-7: promjena ulaza
+11700   Ulaz-2: neobradjeni dogadjaj
+11700   Ulaz-2: promjena ulaza
+11801   Ulaz-8: promjena ulaza
+11900   Ulaz-29: promjena ulaza
+12004   Ulaz-0: neobradjeni dogadjaj
+12004   Ulaz-0: promjena ulaza
+12021   Upravljac: započinjem obradu ulaza-0 (vrijeme reakcije: 17 ms)
+12082   Upravljac: gotov s ulaz-0
+12082   Upravljac: započinjem obradu ulaza-1 (vrijeme reakcije: 678 ms)
+12100   Ulaz-9: promjena ulaza
+12142   Upravljac: gotov s ulaz-1
+12142   Upravljac: započinjem obradu ulaza-2 (vrijeme reakcije: 442 ms)
+12202   Upravljac: gotov s ulaz-2
+12203   Upravljac: započinjem obradu ulaza-3 (vrijeme reakcije: 2102 ms)
+12303   Upravljac: gotov s ulaz-3
+12303   Upravljac: započinjem obradu ulaza-4 (vrijeme reakcije: 1803 ms)
+12400   Ulaz-1: promjena ulaza
+12403   Upravljac: gotov s ulaz-4
+12403   Upravljac: započinjem obradu ulaza-5 (vrijeme reakcije: 1603 ms)
+12500   Ulaz-10: promjena ulaza
+12503   Upravljac: gotov s ulaz-5
+12503   Upravljac: započinjem obradu ulaza-6 (vrijeme reakcije: 1403 ms)
+12604   Upravljac: gotov s ulaz-6
+12604   Upravljac: započinjem obradu ulaza-7 (vrijeme reakcije: 1104 ms)
+12700   Ulaz-2: promjena ulaza
+12704   Upravljac: gotov s ulaz-7
+12704   Upravljac: započinjem obradu ulaza-8 (vrijeme reakcije: 903 ms)
+12801   Ulaz-11: promjena ulaza
+12804   Upravljac: gotov s ulaz-8
+12804   Upravljac: započinjem obradu ulaza-9 (vrijeme reakcije: 704 ms)
+12900   Ulaz-30: promjena ulaza
+12905   Upravljac: gotov s ulaz-9
+12905   Upravljac: započinjem obradu ulaza-10 (vrijeme reakcije: 405 ms)
+13000   Ulaz-0: promjena ulaza
+13005   Upravljac: gotov s ulaz-10
+13005   Upravljac: započinjem obradu ulaza-11 (vrijeme reakcije: 204 ms)
+13101   Ulaz-12: promjena ulaza
+13105   Upravljac: gotov s ulaz-11
+13105   Upravljac: započinjem obradu ulaza-12 (vrijeme reakcije: 4 ms)
+13206   Upravljac: gotov s ulaz-12
+13206   Upravljac: započinjem obradu ulaza-29 (vrijeme reakcije: 1306 ms)
+13405   Ulaz-1: neobradjeni dogadjaj
+13405   Ulaz-1: promjena ulaza
+13500   Ulaz-13: promjena ulaza
+13506   Upravljac: gotov s ulaz-29
+13506   Upravljac: započinjem obradu ulaza-30 (vrijeme reakcije: 606 ms)
+Ulaz-29 gotov
+13606   Upravljac: gotov s ulaz-30
+Ulaz-30 gotov
+13707   Ulaz-2: neobradjeni dogadjaj
+13707   Ulaz-2: promjena ulaza
+13801   Ulaz-14: promjena ulaza
+13900   Ulaz-31: promjena ulaza
+14006   Ulaz-0: neobradjeni dogadjaj
+14007   Ulaz-0: promjena ulaza
+14100   Ulaz-15: promjena ulaza
+14403   Ulaz-1: neobradjeni dogadjaj
+14403   Ulaz-1: promjena ulaza
+14501   Ulaz-16: promjena ulaza
+14607   Upravljac: započinjem obradu ulaza-0 (vrijeme reakcije: 600 ms)
+14668   Upravljac: gotov s ulaz-0
+14668   Upravljac: započinjem obradu ulaza-1 (vrijeme reakcije: 265 ms)
+14703   Ulaz-2: neobradjeni dogadjaj
+14703   Ulaz-2: promjena ulaza
+14728   Upravljac: gotov s ulaz-1
+14728   Upravljac: započinjem obradu ulaza-2 (vrijeme reakcije: 25 ms)
+14788   Upravljac: gotov s ulaz-2
+14788   Upravljac: započinjem obradu ulaza-13 (vrijeme reakcije: 1288 ms)
+14800   Ulaz-17: promjena ulaza
+14889   Upravljac: gotov s ulaz-13
+14889   Upravljac: započinjem obradu ulaza-14 (vrijeme reakcije: 1088 ms)
+14900   Ulaz-32: promjena ulaza
+14989   Upravljac: gotov s ulaz-14
+14989   Upravljac: započinjem obradu ulaza-15 (vrijeme reakcije: 889 ms)
+15001   Ulaz-0: promjena ulaza
+15089   Upravljac: gotov s ulaz-15
+15089   Upravljac: započinjem obradu ulaza-16 (vrijeme reakcije: 588 ms)
+15100   Ulaz-3: promjena ulaza
+15189   Upravljac: gotov s ulaz-16
+15190   Upravljac: započinjem obradu ulaza-17 (vrijeme reakcije: 390 ms)
+15290   Upravljac: gotov s ulaz-17
+15290   Upravljac: započinjem obradu ulaza-31 (vrijeme reakcije: 1390 ms)
+15400   Ulaz-1: promjena ulaza
+15500   Ulaz-4: promjena ulaza
+15590   Upravljac: gotov s ulaz-31
+15591   Upravljac: započinjem obradu ulaza-32 (vrijeme reakcije: 691 ms)
+Ulaz-31 gotov
+15691   Upravljac: gotov s ulaz-32
+Ulaz-32 gotov
+15700   Ulaz-2: promjena ulaza
+15800   Ulaz-5: promjena ulaza
+15900   Ulaz-33: promjena ulaza
+16003   Ulaz-0: neobradjeni dogadjaj
+16003   Ulaz-0: promjena ulaza
+16101   Ulaz-6: promjena ulaza
+16401   Ulaz-1: neobradjeni dogadjaj
+16401   Ulaz-1: promjena ulaza
+16500   Ulaz-7: promjena ulaza
+16691   Upravljac: započinjem obradu ulaza-0 (vrijeme reakcije: 688 ms)
+16701   Ulaz-2: neobradjeni dogadjaj
+16701   Ulaz-2: promjena ulaza
+16751   Upravljac: gotov s ulaz-0
+16751   Upravljac: započinjem obradu ulaza-1 (vrijeme reakcije: 350 ms)
+16800   Ulaz-8: promjena ulaza
+16812   Upravljac: gotov s ulaz-1
+16812   Upravljac: započinjem obradu ulaza-2 (vrijeme reakcije: 111 ms)
+16872   Upravljac: gotov s ulaz-2
+16872   Upravljac: započinjem obradu ulaza-3 (vrijeme reakcije: 1772 ms)
+16901   Ulaz-34: promjena ulaza
+16972   Upravljac: gotov s ulaz-3
+16972   Upravljac: započinjem obradu ulaza-4 (vrijeme reakcije: 1472 ms)
+Ulaz-3 gotov
+17000   Ulaz-0: promjena ulaza
+17073   Upravljac: gotov s ulaz-4
+17073   Upravljac: započinjem obradu ulaza-5 (vrijeme reakcije: 1273 ms)
+Ulaz-4 gotov
+17100   Ulaz-9: promjena ulaza
+17173   Upravljac: gotov s ulaz-5
+17173   Upravljac: započinjem obradu ulaza-6 (vrijeme reakcije: 1072 ms)
+Ulaz-5 gotov
+17274   Upravljac: gotov s ulaz-6
+17274   Upravljac: započinjem obradu ulaza-7 (vrijeme reakcije: 774 ms)
+Ulaz-6 gotov
+17375   Upravljac: gotov s ulaz-7
+17375   Upravljac: započinjem obradu ulaza-8 (vrijeme reakcije: 575 ms)
+Ulaz-7 gotov
+17400   Ulaz-1: promjena ulaza
+17475   Upravljac: gotov s ulaz-8
+17475   Upravljac: započinjem obradu ulaza-9 (vrijeme reakcije: 375 ms)
+Ulaz-8 gotov
+17500   Ulaz-10: promjena ulaza
+17575   Upravljac: gotov s ulaz-9
+17575   Upravljac: započinjem obradu ulaza-10 (vrijeme reakcije: 75 ms)
+Ulaz-9 gotov
+17676   Upravljac: gotov s ulaz-10
+17676   Upravljac: započinjem obradu ulaza-33 (vrijeme reakcije: 1776 ms)
+Ulaz-10 gotov
+17700   Ulaz-2: promjena ulaza
+17800   Ulaz-11: promjena ulaza
+17901   Ulaz-35: promjena ulaza
+17976   Upravljac: gotov s ulaz-33
+17976   Upravljac: započinjem obradu ulaza-34 (vrijeme reakcije: 1075 ms)
+Ulaz-33 gotov
+18007   Ulaz-0: neobradjeni dogadjaj
+18007   Ulaz-0: promjena ulaza
+18077   Upravljac: gotov s ulaz-34
+18077   Upravljac: započinjem obradu ulaza-35 (vrijeme reakcije: 176 ms)
+Ulaz-34 gotov
+18100   Ulaz-12: promjena ulaza
+18377   Upravljac: gotov s ulaz-35
+Ulaz-35 gotov
+18409   Ulaz-1: neobradjeni dogadjaj
+18409   Ulaz-1: promjena ulaza
+18501   Ulaz-13: promjena ulaza
+18700   Ulaz-2: neobradjeni dogadjaj
+18700   Ulaz-2: promjena ulaza
+18800   Ulaz-14: promjena ulaza
+18900   Ulaz-36: promjena ulaza
+19007   Ulaz-0: neobradjeni dogadjaj
+19007   Ulaz-0: promjena ulaza
+19101   Ulaz-15: promjena ulaza
+19378   Upravljac: započinjem obradu ulaza-0 (vrijeme reakcije: 371 ms)
+19408   Ulaz-1: neobradjeni dogadjaj
+19408   Ulaz-1: promjena ulaza
+19438   Upravljac: gotov s ulaz-0
+19438   Upravljac: započinjem obradu ulaza-1 (vrijeme reakcije: 30 ms)
+Ulaz-0 gotov
+19499   Upravljac: gotov s ulaz-1
+19499   Upravljac: započinjem obradu ulaza-2 (vrijeme reakcije: 799 ms)
+19500   Ulaz-16: promjena ulaza
+Ulaz-1 gotov
+19559   Upravljac: gotov s ulaz-2
+19559   Upravljac: započinjem obradu ulaza-11 (vrijeme reakcije: 1759 ms)
+19660   Upravljac: gotov s ulaz-11
+19660   Upravljac: započinjem obradu ulaza-12 (vrijeme reakcije: 1560 ms)
+Ulaz-11 gotov
+19700   Ulaz-2: promjena ulaza
+19760   Upravljac: gotov s ulaz-12
+19760   Upravljac: započinjem obradu ulaza-13 (vrijeme reakcije: 1259 ms)
+Ulaz-12 gotov
+19800   Ulaz-17: promjena ulaza
+19861   Upravljac: gotov s ulaz-13
+19861   Upravljac: započinjem obradu ulaza-14 (vrijeme reakcije: 1061 ms)
+Ulaz-13 gotov
+19900   Ulaz-37: promjena ulaza
+19961   Upravljac: gotov s ulaz-14
+19961   Upravljac: započinjem obradu ulaza-15 (vrijeme reakcije: 860 ms)
+Ulaz-14 gotov
+20062   Upravljac: gotov s ulaz-15
+20062   Upravljac: započinjem obradu ulaza-16 (vrijeme reakcije: 562 ms)
+Ulaz-15 gotov
+20162   Upravljac: gotov s ulaz-16
+20162   Upravljac: započinjem obradu ulaza-17 (vrijeme reakcije: 362 ms)
+Ulaz-16 gotov
+20262   Upravljac: gotov s ulaz-17
+20263   Upravljac: započinjem obradu ulaza-36 (vrijeme reakcije: 1363 ms)
+Ulaz-17 gotov
+20563   Upravljac: gotov s ulaz-36
+20563   Upravljac: započinjem obradu ulaza-37 (vrijeme reakcije: 663 ms)
+Ulaz-36 gotov
+Ulaz-2 gotov
+20864   Upravljac: gotov s ulaz-37
+Ulaz-37 gotov
+
+=== STATISTIKA ===
+
+Ulaz-0:
+  Broj promjena stanja: 20
+  Prosječno vrijeme reakcije na promjenu stanja: 600 ms
+  Maksimalno vrijeme reakcije na promjenu stanja: 1001 ms
+  Broj neobrađenih događaja: 11
+
+Ulaz-1:
+  Broj promjena stanja: 20
+  Prosječno vrijeme reakcije na promjenu stanja: 483 ms
+  Maksimalno vrijeme reakcije na promjenu stanja: 913 ms
+  Broj neobrađenih događaja: 11
+
+Ulaz-2:
+  Broj promjena stanja: 20
+  Prosječno vrijeme reakcije na promjenu stanja: 321 ms
+  Maksimalno vrijeme reakcije na promjenu stanja: 799 ms
+  Broj neobrađenih događaja: 10
+
+Ulaz-3:
+  Broj promjena stanja: 4
+  Prosječno vrijeme reakcije na promjenu stanja: 1822 ms
+  Maksimalno vrijeme reakcije na promjenu stanja: 2334 ms
+  Broj neobrađenih događaja: 0
+
+Ulaz-4:
+  Broj promjena stanja: 4
+  Prosječno vrijeme reakcije na promjenu stanja: 1523 ms
+  Maksimalno vrijeme reakcije na promjenu stanja: 2034 ms
+  Broj neobrađenih događaja: 0
+
+Ulaz-5:
+  Broj promjena stanja: 4
+  Prosječno vrijeme reakcije na promjenu stanja: 1323 ms
+  Maksimalno vrijeme reakcije na promjenu stanja: 1834 ms
+  Broj neobrađenih događaja: 0
+
+Ulaz-6:
+  Broj promjena stanja: 4
+  Prosječno vrijeme reakcije na promjenu stanja: 1123 ms
+  Maksimalno vrijeme reakcije na promjenu stanja: 1634 ms
+  Broj neobrađenih događaja: 0
+
+Ulaz-7:
+  Broj promjena stanja: 4
+  Prosječno vrijeme reakcije na promjenu stanja: 824 ms
+  Maksimalno vrijeme reakcije na promjenu stanja: 1335 ms
+  Broj neobrađenih događaja: 0
+
+Ulaz-8:
+  Broj promjena stanja: 4
+  Prosječno vrijeme reakcije na promjenu stanja: 944 ms
+  Maksimalno vrijeme reakcije na promjenu stanja: 1164 ms
+  Broj neobrađenih događaja: 0
+
+Ulaz-9:
+  Broj promjena stanja: 4
+  Prosječno vrijeme reakcije na promjenu stanja: 744 ms
+  Maksimalno vrijeme reakcije na promjenu stanja: 965 ms
+  Broj neobrađenih događaja: 0
+
+Ulaz-10:
+  Broj promjena stanja: 4
+  Prosječno vrijeme reakcije na promjenu stanja: 445 ms
+  Maksimalno vrijeme reakcije na promjenu stanja: 666 ms
+  Broj neobrađenih događaja: 0
+
+Ulaz-11:
+  Broj promjena stanja: 4
+  Prosječno vrijeme reakcije na promjenu stanja: 716 ms
+  Maksimalno vrijeme reakcije na promjenu stanja: 1759 ms
+  Broj neobrađenih događaja: 0
+
+Ulaz-12:
+  Broj promjena stanja: 4
+  Prosječno vrijeme reakcije na promjenu stanja: 516 ms
+  Maksimalno vrijeme reakcije na promjenu stanja: 1560 ms
+  Broj neobrađenih događaja: 0
+
+Ulaz-13:
+  Broj promjena stanja: 4
+  Prosječno vrijeme reakcije na promjenu stanja: 1403 ms
+  Maksimalno vrijeme reakcije na promjenu stanja: 1548 ms
+  Broj neobrađenih događaja: 0
+
+Ulaz-14:
+  Broj promjena stanja: 4
+  Prosječno vrijeme reakcije na promjenu stanja: 1204 ms
+  Maksimalno vrijeme reakcije na promjenu stanja: 1350 ms
+  Broj neobrađenih događaja: 0
+
+Ulaz-15:
+  Broj promjena stanja: 4
+  Prosječno vrijeme reakcije na promjenu stanja: 1004 ms
+  Maksimalno vrijeme reakcije na promjenu stanja: 1150 ms
+  Broj neobrađenih događaja: 0
+
+Ulaz-16:
+  Broj promjena stanja: 4
+  Prosječno vrijeme reakcije na promjenu stanja: 705 ms
+  Maksimalno vrijeme reakcije na promjenu stanja: 851 ms
+  Broj neobrađenih događaja: 0
+
+Ulaz-17:
+  Broj promjena stanja: 4
+  Prosječno vrijeme reakcije na promjenu stanja: 505 ms
+  Maksimalno vrijeme reakcije na promjenu stanja: 651 ms
+  Broj neobrađenih događaja: 0
+
+Ulaz-18:
+  Broj promjena stanja: 1
+  Prosječno vrijeme reakcije na promjenu stanja: 783 ms
+  Maksimalno vrijeme reakcije na promjenu stanja: 783 ms
+  Broj neobrađenih događaja: 0
+
+Ulaz-19:
+  Broj promjena stanja: 1
+  Prosječno vrijeme reakcije na promjenu stanja: 1566 ms
+  Maksimalno vrijeme reakcije na promjenu stanja: 1566 ms
+  Broj neobrađenih događaja: 0
+
+Ulaz-20:
+  Broj promjena stanja: 1
+  Prosječno vrijeme reakcije na promjenu stanja: 867 ms
+  Maksimalno vrijeme reakcije na promjenu stanja: 867 ms
+  Broj neobrađenih događaja: 0
+
+Ulaz-21:
+  Broj promjena stanja: 1
+  Prosječno vrijeme reakcije na promjenu stanja: 1651 ms
+  Maksimalno vrijeme reakcije na promjenu stanja: 1651 ms
+  Broj neobrađenih događaja: 0
+
+Ulaz-22:
+  Broj promjena stanja: 1
+  Prosječno vrijeme reakcije na promjenu stanja: 952 ms
+  Maksimalno vrijeme reakcije na promjenu stanja: 952 ms
+  Broj neobrađenih događaja: 0
+
+Ulaz-23:
+  Broj promjena stanja: 1
+  Prosječno vrijeme reakcije na promjenu stanja: 52 ms
+  Maksimalno vrijeme reakcije na promjenu stanja: 52 ms
+  Broj neobrađenih događaja: 0
+
+Ulaz-24:
+  Broj promjena stanja: 1
+  Prosječno vrijeme reakcije na promjenu stanja: 1535 ms
+  Maksimalno vrijeme reakcije na promjenu stanja: 1535 ms
+  Broj neobrađenih događaja: 0
+
+Ulaz-25:
+  Broj promjena stanja: 1
+  Prosječno vrijeme reakcije na promjenu stanja: 636 ms
+  Maksimalno vrijeme reakcije na promjenu stanja: 636 ms
+  Broj neobrađenih događaja: 0
+
+Ulaz-26:
+  Broj promjena stanja: 1
+  Prosječno vrijeme reakcije na promjenu stanja: 1619 ms
+  Maksimalno vrijeme reakcije na promjenu stanja: 1619 ms
+  Broj neobrađenih događaja: 0
+
+Ulaz-27:
+  Broj promjena stanja: 1
+  Prosječno vrijeme reakcije na promjenu stanja: 721 ms
+  Maksimalno vrijeme reakcije na promjenu stanja: 721 ms
+  Broj neobrađenih događaja: 0
+
+Ulaz-28:
+  Broj promjena stanja: 1
+  Prosječno vrijeme reakcije na promjenu stanja: 21 ms
+  Maksimalno vrijeme reakcije na promjenu stanja: 21 ms
+  Broj neobrađenih događaja: 0
+
+Ulaz-29:
+  Broj promjena stanja: 1
+  Prosječno vrijeme reakcije na promjenu stanja: 1306 ms
+  Maksimalno vrijeme reakcije na promjenu stanja: 1306 ms
+  Broj neobrađenih događaja: 0
+
+Ulaz-30:
+  Broj promjena stanja: 1
+  Prosječno vrijeme reakcije na promjenu stanja: 606 ms
+  Maksimalno vrijeme reakcije na promjenu stanja: 606 ms
+  Broj neobrađenih događaja: 0
+
+Ulaz-31:
+  Broj promjena stanja: 1
+  Prosječno vrijeme reakcije na promjenu stanja: 1390 ms
+  Maksimalno vrijeme reakcije na promjenu stanja: 1390 ms
+  Broj neobrađenih događaja: 0
+
+Ulaz-32:
+  Broj promjena stanja: 1
+  Prosječno vrijeme reakcije na promjenu stanja: 691 ms
+  Maksimalno vrijeme reakcije na promjenu stanja: 691 ms
+  Broj neobrađenih događaja: 0
+
+Ulaz-33:
+  Broj promjena stanja: 1
+  Prosječno vrijeme reakcije na promjenu stanja: 1776 ms
+  Maksimalno vrijeme reakcije na promjenu stanja: 1776 ms
+  Broj neobrađenih događaja: 0
+
+Ulaz-34:
+  Broj promjena stanja: 1
+  Prosječno vrijeme reakcije na promjenu stanja: 1075 ms
+  Maksimalno vrijeme reakcije na promjenu stanja: 1075 ms
+  Broj neobrađenih događaja: 0
+
+Ulaz-35:
+  Broj promjena stanja: 1
+  Prosječno vrijeme reakcije na promjenu stanja: 176 ms
+  Maksimalno vrijeme reakcije na promjenu stanja: 176 ms
+  Broj neobrađenih događaja: 0
+
+Ulaz-36:
+  Broj promjena stanja: 1
+  Prosječno vrijeme reakcije na promjenu stanja: 1363 ms
+  Maksimalno vrijeme reakcije na promjenu stanja: 1363 ms
+  Broj neobrađenih događaja: 0
+
+Ulaz-37:
+  Broj promjena stanja: 1
+  Prosječno vrijeme reakcije na promjenu stanja: 663 ms
+  Maksimalno vrijeme reakcije na promjenu stanja: 663 ms
+  Broj neobrađenih događaja: 0
+
+=== UKUPNA STATISTIKA ===
+Broj promjena stanja: 140
+Prosječno vrijeme reakcije na promjenu stanja: 848 ms
+Maksimalno vrijeme reakcije na promjenu stanja: 2334 ms
+Broj neobrađenih događaja: 32
+Postotak neobrađenih događaja: 22.857143
