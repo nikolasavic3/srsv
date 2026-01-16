@@ -14,7 +14,6 @@
 #include <mach/thread_policy.h>
 #endif
 
-#define NUM_INPUTS 6
 #define SIMULATION_MS 20000
 
 typedef struct {
@@ -34,14 +33,36 @@ typedef struct {
     int unprocessed_count;
 } InputState;
 
+// #define NUM_INPUTS 6
+// Input inputs[NUM_INPUTS] = {
+//     {1000,   0,  30, 1},
+//     {1000, 400,  30, 1},
+//     {2000, 100,  50, 1},
+//     {2000, 600,  50, 1},
+//     {5000, 200,  80, 1},
+//     {5000, 800,  80, 1},
+// };
+
+#define NUM_INPUTS 14
+
 Input inputs[NUM_INPUTS] = {
-    {1000,   0,  30, 1},
-    {1000, 400,  30, 1},
-    {2000, 100,  50, 1},
-    {2000, 600,  50, 1},
-    {5000, 200,  80, 1},
-    {5000, 800,  80, 1},
+    {1000,   0, 150, 1},   
+    {1000, 200, 150, 1},   
+    {1000, 400, 150, 1},   
+    {1000, 600, 150, 1},   
+    {1000, 800, 150, 1},   
+    {2000, 100, 200, 1},   
+    {2000, 300, 200, 1},   
+    {2000, 500, 200, 1},   
+    {5000, 150, 250, 1},   
+    {5000, 450, 250, 1},   
+    {800,  100, 220, 1},   
+    {800,  500, 220, 1},   
+    {1200, 250, 260, 1},   
+    {1500, 750, 300, 1},   
 };
+
+
 
 InputState states[NUM_INPUTS];
 volatile int simulation_running = 1;

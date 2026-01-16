@@ -14,7 +14,7 @@
 #include <mach/thread_policy.h>
 #endif
 
-#define NUM_INPUTS 6
+
 #define SIMULATION_MS 20000
 
 typedef struct {
@@ -32,16 +32,38 @@ typedef struct {
     long long total_reaction_time;
     long long max_reaction_time;
     int unprocessed_count;
+    int slowed;
 } InputState;
 
+// #define NUM_INPUTS 6
+// Input inputs[NUM_INPUTS] = {
+//     {1000,   0,  30, 1},
+//     {1000, 400,  30, 1},
+//     {2000, 100,  50, 1},
+//     {2000, 600,  50, 1},
+//     {5000, 200,  80, 1},
+//     {5000, 800,  80, 1},
+// };
+
+#define NUM_INPUTS 14
+
 Input inputs[NUM_INPUTS] = {
-    {1000,   0,  30, 1},
-    {1000, 400,  30, 1},
-    {2000, 100,  50, 1},
-    {2000, 600,  50, 1},
-    {5000, 200,  80, 1},
-    {5000, 800,  80, 1},
+    {1000,   0, 150, 1},   
+    {1000, 200, 150, 1},   
+    {1000, 400, 150, 1},   
+    {1000, 600, 150, 1},   
+    {1000, 800, 150, 1},   
+    {2000, 100, 200, 1},   
+    {2000, 300, 200, 1},   
+    {2000, 500, 200, 1},   
+    {5000, 150, 250, 1},   
+    {5000, 450, 250, 1},   
+    {800,  100, 220, 1},   
+    {800,  500, 220, 1},   
+    {1200, 250, 260, 1},   
+    {1500, 750, 300, 1},   
 };
+
 
 InputState states[NUM_INPUTS];
 volatile int simulation_running = 1;
@@ -133,6 +155,7 @@ void* input_simulator(void* arg) {
     free(arg);
     
     long long t = inputs[i].t0;
+    int current_period = inputs[i].T;
     
     while (simulation_running && t < SIMULATION_MS) {
         sleep_until(t);
@@ -140,6 +163,12 @@ void* input_simulator(void* arg) {
         pthread_mutex_lock(&mutex);
         if (states[i].state_changed) {
             states[i].unprocessed_count++;
+            if (!states[i].slowed) {
+                states[i].slowed = 1;
+                current_period = inputs[i].T * 3;
+                printf("%lld\tUlaz-%d: kasni upravljac, povecavam periodu na %d ms\n",
+                    get_time_ms() - start_time, i, current_period);
+            }
         }
         states[i].state_changed = 1;
         states[i].processing_done = 0;
@@ -148,7 +177,7 @@ void* input_simulator(void* arg) {
         printf("%lld\tUlaz-%d: promjena\n", states[i].change_time, i);
         pthread_mutex_unlock(&mutex);
         
-        t += inputs[i].T;
+        t += current_period;
     }
     return NULL;
 }
